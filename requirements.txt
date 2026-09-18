@@ -1,0 +1,4 @@
+h5py
+hdf5plugin
+numpy
+tqdm
